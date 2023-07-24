@@ -22,7 +22,7 @@ class _HomePageState extends State<HomePage> {
         ),
         body: const SizedBox(
           child: ModelViewer(
-            src: 'assets/3d/DinklageLikenessSculpt.glb',
+            src: 'assets/3d/ImageToStl.com_002-ug-2.glb',
             backgroundColor: Color.fromARGB(0xFF, 0xEE, 0xEE, 0xEE),
             alt: 'A 3D model of an astronaut',
             ar: true,
